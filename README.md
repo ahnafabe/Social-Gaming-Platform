@@ -1,4 +1,4 @@
-# 373-24-hachee
+# Social Gaming Platform
 
 ## Cloning Repository
 
